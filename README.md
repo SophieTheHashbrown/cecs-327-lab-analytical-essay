@@ -1,4 +1,4 @@
-# CECS 327 Term Assignment 2 - Analytical Essay 
+# CECS 327 Lab Assignment - Analytical Essay 
 
 ## Assignment Description
 Your assignment is to write an analytical essay about a topic relating to this course: *Networks and Distributed Computing*. Your essay must have at least 3 unique academic-quality references and use the proper citation methods for **IEEE stylizing**, [which can be found here](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf). The minimum length requirement is 3 stylized pages (about 750 words), with an upper-bound of around 6 pages or roughly 1500 words.
