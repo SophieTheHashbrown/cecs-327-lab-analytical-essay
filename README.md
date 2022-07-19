@@ -7,15 +7,16 @@ The depth of the analytical essay should reflect the complexity of an upper-divi
 
 Sample topics include (but are not limited to) the following:
 
-* Clock Synchronization
-* Internet Security and the Use of Firewalls
-* Advancements in Distributed Computing Introduced with the Plan 9 Operating System
-* Distributed Computing Usage in High-Traffic MMO Games
-* Database Architecture and Distributed Computing
-* Divide and Conquer Algorithms in Peer-to-Peer Architectures
-* Real-Time Operating System Usage in Distributed Computing
-* Load Balancing Performance on LAN Networks 
-* Fault-Tolerance Methodologies
+* [Clock Synchronization](https://en.wikipedia.org/wiki/Clock_synchronization)
+* [Internet Security and the Use of Firewalls](https://us.norton.com/internetsecurity-emerging-threats-what-is-firewall.html)
+* [Advancements in Distributed Computing Introduced with the Plan 9 Operating System](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+* [Distributed Computing Usage in High-Traffic MMO Games](https://www.researchgate.net/publication/289719929_Scalable_software_architecture_for_distributed_MMORPG_traffic_generation_based_on_integration_of_UrBBaN-Gen_and_IMUNES)
+* [Database Architecture and Distributed Computing](https://phoenixnap.com/kb/distributed-database)
+* [Divide and Conquer Algorithms in Peer-to-Peer Architectures](https://www.researchgate.net/publication/224602692_A_Flexible_Divide-And-Conquer_Protocol_for_Multi-View_Peer-to-Peer_Live_Streaming)
+* [Real-Time Operating System Usage in Distributed Computing](https://en.wikipedia.org/wiki/Real-time_operating_system)
+* [Load Balancing Performance on LAN Networks](https://www.nginx.com/resources/glossary/load-balancing/)
+* [Load Balancing in Docker](https://superuser.openstack.org/articles/run-load-balanced-service-docker-containers-openstack)
+* [Fault-Tolerance Methodologies](https://en.wikipedia.org/wiki/Fault_tolerance)
 
 ## Deliverables
 Yes, we're using git to write research papers now! Maybe you find it annoying...but I find it awesome. :D
